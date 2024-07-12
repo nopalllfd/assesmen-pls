@@ -1,0 +1,26 @@
+body {
+  font-size: 50px !important  ;
+}
+body span {
+  margin-left: 30px !important;
+}
+/* body section {
+  font-size: 30px !important;
+  text-align: justify !important;
+} */
+section .radio {
+  font-size: 40px !important;
+  text-align: justify !important;
+  transform: scale(5) !important;
+}
+
+body button {
+  transform: scale(3) !important;
+  f
+}
+
+/* 
+body .cr {
+  width: 365.33px !important;
+  height: 48px !important;
+} */
